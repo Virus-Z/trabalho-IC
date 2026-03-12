@@ -1,0 +1,14 @@
+# Ambientes Virtuais (Nunca suba o .venv!)
+.venv/
+.virtual_documents/
+
+# Arquivos de Dados e Datasets Pesados
+*.csv
+*.h5
+*.xlsx
+*.zip
+data/
+PetImages/
+
+# Arquivos temporários do Jupyter Notebook
+.ipynb_checkpoints/
